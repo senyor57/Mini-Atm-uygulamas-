@@ -1,0 +1,8 @@
+C:\Users\ozans\source\repos\Hello world ve yorum satırı\MiniAtm\bin\Debug\MiniAtm.exe.config
+C:\Users\ozans\source\repos\Hello world ve yorum satırı\MiniAtm\bin\Debug\MiniAtm.exe
+C:\Users\ozans\source\repos\Hello world ve yorum satırı\MiniAtm\bin\Debug\MiniAtm.pdb
+C:\Users\ozans\source\repos\Hello world ve yorum satırı\MiniAtm\obj\Debug\MiniAtm.csproj.AssemblyReference.cache
+C:\Users\ozans\source\repos\Hello world ve yorum satırı\MiniAtm\obj\Debug\MiniAtm.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozans\source\repos\Hello world ve yorum satırı\MiniAtm\obj\Debug\MiniAtm.csproj.CoreCompileInputs.cache
+C:\Users\ozans\source\repos\Hello world ve yorum satırı\MiniAtm\obj\Debug\MiniAtm.exe
+C:\Users\ozans\source\repos\Hello world ve yorum satırı\MiniAtm\obj\Debug\MiniAtm.pdb
